@@ -41,17 +41,29 @@ def hamza(z):
 		time.sleep(0.1)
 ##### LOGO #####
 logo = """
-\033[1;92m___  ____   _ _____ _   __  ___   _   _ 
-\033[1;92m|  \/  | | | /  ___| | / / / _ \ | \ | |
-\033[1;92m| .  . | | | \ `--.| |/ / / /_\ \|  \| |
-\033[1;92m| |\/| | | | |`--. \    \ |  _  || . ` |
-\033[1;92m| |  | | |_| /\__/ / |\  \| | | || |\  |
-\033[1;92m\_|  |_/\___/\____/\_| \_/\_| |_/\_| \_/ 
-\033[1;97m=======================================
-\033[1;91mOwNeR  \033[1;93m: \033[1;94mJAM SHAHRUKH X MUSKAN NOOR
-\033[1;91mYouTube \033[1;93m: \033[1;94mJAM SHAHRUKH TECHNICAL
-\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/muskanckg
-\033[1;91mGang \033[1;93m: \033[1;94mCRAZY KING GANG
+\033[1;92m___  ____   
+
+██████╗░░█████╗░████████╗░█████╗░██████╗░
+
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗
+
+██████╔╝███████║░░░██║░░░███████║██████╦╝
+
+██╔══██╗██╔══██║░░░██║░░░██╔══██║██╔══██╗
+
+██║░░██║██║░░██║░░░██║░░░██║░░██║██████╦╝
+
+╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░
+
+
+
+
+
+=======================================
+OWNER •   WAHAB RATAB
+FACEBOOK • WAHAB RATAB
+GITHUB.  • WWW.GITHUB.COM/wahab-ratab
+GANG.    •     S P G
 \033[1;97m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -67,16 +79,19 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 os.system("clear")
-print "\033[1;97m ========================================="
-print  """\033[1;97m=======================================
-\033[1;91mOwNeR  \033[1;93m: \033[1;94mJAM SHAHRUKH X MUSKAN NOOR
-\033[1;91mYouTube \033[1;93m: \033[1;94mJAM SHAHRUKH TECHNICAL
-\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/muskanckg
-\033[1;91mGang \033[1;93m: \033[1;94mCRAZY KING GANG
+print "=================== WAHAB ======================"
+print  ==================== RATAB ==================
+OWNER •   WAHAB RATAB
+
+FACEBOOK • WAHAB RATAB
+
+GITHUB.  • WWW.GITHUB.COM/wahab-ratab
+
+GANG.    •     S P G
 \033[1;97m======================================="""
 print " \x1b[1;97m=========================================="
-CorrectUsername = "jam"
-CorrectPassword = "muskan"
+CorrectUsername = "ratab"
+CorrectPassword = "ratab"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -87,10 +102,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open https://www.youtube.com/channel/UCehUCehsjsjajqsjsjajq')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+        os.system('xdg-open https://www.youtube.com/channel/UCehuchsnsnsn')
 def methodlogin():
 	os.system('clear')
 	print logo
@@ -114,7 +129,7 @@ def methodlogin():
 		hopa.close()
 		print "\n[✓] Logged In Successfully."
 		time.sleep(1)
-		os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+		os.system('xdg-open https://www.youtube.com/channel/UCe6wmIyozMOA')
 		menu()
 	elif hos =="0":
 		exit()
@@ -183,12 +198,12 @@ def menu():
 		keluar()
 	os.system("clear")
 	print logo
-	print " MUSKAN QUEEN OF FACEBOOK "
+	print " RATAB KING OF FACEBOOK "
 	print 42*"\033[1;96m="
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH JAM"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH RATAB"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 def pilih():
